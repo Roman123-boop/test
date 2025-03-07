@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741358559963,
+  "timestamp": 1741359923740,
   "index": "/test/index.html",
   "assetGroups": [
     {
@@ -20,6 +20,7 @@
         "/test/924.786bb435a2863d2a.js",
         "/test/index.html",
         "/test/main.0bc1db85466e22dc.js",
+        "/test/manifest.webmanifest",
         "/test/polyfills.6bc9ec401e578844.js",
         "/test/runtime.97305e5b369bfd40.js",
         "/test/styles.90b7ba5af304292a.css"
@@ -58,6 +59,14 @@
         "/test/assets/icon/ic_touch_large.svg",
         "/test/assets/icon/ic_trident.svg",
         "/test/assets/icon/qr_icon.svg",
+        "/test/assets/icons/icon-128x128.png",
+        "/test/assets/icons/icon-144x144.png",
+        "/test/assets/icons/icon-152x152.png",
+        "/test/assets/icons/icon-192x192.png",
+        "/test/assets/icons/icon-384x384.png",
+        "/test/assets/icons/icon-512x512.png",
+        "/test/assets/icons/icon-72x72.png",
+        "/test/assets/icons/icon-96x96.png",
         "/test/assets/qr-img.svg",
         "/test/assets/shapes.svg",
         "/test/e_ukraine_regular.d55f835164fabe75.otf"
@@ -98,11 +107,20 @@
     "/test/assets/icon/ic_touch_large.svg": "0d498d0298a7f5a1c2144e7ce74a7e2e7b87498d",
     "/test/assets/icon/ic_trident.svg": "9da53400001c31cf12a9ebccf6a85b0347c0ee17",
     "/test/assets/icon/qr_icon.svg": "9cb30a171afc582f7cb6bdcd2008f2df14d1dec1",
+    "/test/assets/icons/icon-128x128.png": "0880274a71865e20c3f7a3029b31f80a92361cf9",
+    "/test/assets/icons/icon-144x144.png": "cb3a73e8dfe4814f18891be7dd926c96ed882e0c",
+    "/test/assets/icons/icon-152x152.png": "84cf3b65d4a7dfc7c2eec9e4a777038191795845",
+    "/test/assets/icons/icon-192x192.png": "8e19aab8b5ca046966f24910cba5ec5def1ca02f",
+    "/test/assets/icons/icon-384x384.png": "585c47add23cf76465b233f2b9025fe6117578d1",
+    "/test/assets/icons/icon-512x512.png": "794e5706837fac559f2be45c44fc464d811f43a3",
+    "/test/assets/icons/icon-72x72.png": "b2e7a65012b7b137f6f8d0a0357f7a6a7882c4db",
+    "/test/assets/icons/icon-96x96.png": "c80e67fc6c2c6779d39cca3daea15a0f0a5c0303",
     "/test/assets/qr-img.svg": "cec326f35ef44c37e6e0e0092ce550e55cbdd8f1",
     "/test/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/test/e_ukraine_regular.d55f835164fabe75.otf": "f9823e381ae07aeb883a073d7c08d8afb9accb6e",
     "/test/index.html": "9f3ffcd2c252ca4e5be5904a6e504db9a7db3f12",
     "/test/main.0bc1db85466e22dc.js": "d314bf9816c9704bad51ebb6e5c9495eb5fa86ba",
+    "/test/manifest.webmanifest": "cba04c2b3cbe2b8bed2c42a40a3bf577581416e2",
     "/test/polyfills.6bc9ec401e578844.js": "23c4a578df4bd9bfc226acdc600531134ca1aea9",
     "/test/runtime.97305e5b369bfd40.js": "80532caa93d5ab7b672aa82405d6da01a3dcc352",
     "/test/styles.90b7ba5af304292a.css": "c869395087af6d4d0b3dc22a228b717822c1c600"
