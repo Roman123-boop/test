@@ -1,0 +1,129 @@
+{
+  "configVersion": 1,
+  "timestamp": 1741357437396,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/179.cef0cf71723fce65.js",
+        "/338.158542fcb5371d01.js",
+        "/402.29661c050b4745f6.js",
+        "/631.88b0ba5e773d216e.js",
+        "/687.57cf1f6946ca6dbd.js",
+        "/699.32f13bc15aff13ca.js",
+        "/924.786bb435a2863d2a.js",
+        "/index.html",
+        "/main.0bc1db85466e22dc.js",
+        "/polyfills.6bc9ec401e578844.js",
+        "/runtime.97305e5b369bfd40.js",
+        "/styles.90b7ba5af304292a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/e_ukraine_regular.otf",
+        "/assets/icon/favicon.png",
+        "/assets/icon/ic_app_logo.svg",
+        "/assets/icon/ic_check_circle.svg",
+        "/assets/icon/ic_close.svg",
+        "/assets/icon/ic_dark_pin_clear.png",
+        "/assets/icon/ic_dark_pin_clear.svg",
+        "/assets/icon/ic_faq.svg",
+        "/assets/icon/ic_full_info.svg",
+        "/assets/icon/ic_hamburger.svg",
+        "/assets/icon/ic_light_pin_clear.png",
+        "/assets/icon/ic_light_pin_clear.svg",
+        "/assets/icon/ic_logout.svg",
+        "/assets/icon/ic_notifications.svg",
+        "/assets/icon/ic_pdf.svg",
+        "/assets/icon/ic_problem.svg",
+        "/assets/icon/ic_refresh.svg",
+        "/assets/icon/ic_settings.svg",
+        "/assets/icon/ic_small_fingerprint.png",
+        "/assets/icon/ic_small_fingerprint.svg",
+        "/assets/icon/ic_touch_large.png",
+        "/assets/icon/ic_touch_large.svg",
+        "/assets/icon/ic_trident.svg",
+        "/assets/icon/qr_icon.svg",
+        "/assets/qr-img.svg",
+        "/assets/shapes.svg",
+        "/e_ukraine_regular.d55f835164fabe75.otf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/179.cef0cf71723fce65.js": "8596ed8f502ec962de1c62f9aa24604dbd50eabe",
+    "/338.158542fcb5371d01.js": "ab69e93c37503a0cc0d975b72162f5f6a593aad3",
+    "/402.29661c050b4745f6.js": "4b90e97cc87b02a015495f4b793d56625b9844fb",
+    "/631.88b0ba5e773d216e.js": "fd2f647475add7d6adc9d15e28fe6eff868a787f",
+    "/687.57cf1f6946ca6dbd.js": "cb5373f1c6b7459a36d4bcecfdc36612ee018a35",
+    "/699.32f13bc15aff13ca.js": "24f57cd2024f829ead98a1031235d359325c005b",
+    "/924.786bb435a2863d2a.js": "dda310c9478bdc0a99d46e9f895af291ff5af8a3",
+    "/assets/e_ukraine_regular.otf": "f9823e381ae07aeb883a073d7c08d8afb9accb6e",
+    "/assets/icon/favicon.png": "aba601e70428fec3db25651ad2888c378ecc74fc",
+    "/assets/icon/ic_app_logo.svg": "eff6488746fbdd839b20ecf67d12406792389ac8",
+    "/assets/icon/ic_check_circle.svg": "65bf533d33385ecd6e431e88bb184e2668e3198c",
+    "/assets/icon/ic_close.svg": "8ea2b768b9540c71f2c4e898945f518c6585d7ef",
+    "/assets/icon/ic_dark_pin_clear.png": "458066d733ad46cf81f241f7545a3ef28d7f1434",
+    "/assets/icon/ic_dark_pin_clear.svg": "3a1393f794c5498efd8b197945b2082494f86898",
+    "/assets/icon/ic_faq.svg": "b5ef52ca129458770966d8846a44c479ec3d90e6",
+    "/assets/icon/ic_full_info.svg": "0d4acbbf5d71bb7567aa1e75d734e3e71b8ca433",
+    "/assets/icon/ic_hamburger.svg": "2ed1cadca3ac9e4d1341d59a4437efd4e3bde4b6",
+    "/assets/icon/ic_light_pin_clear.png": "25f9d364d24d1ed848c883edb1d61631920a5f0a",
+    "/assets/icon/ic_light_pin_clear.svg": "5e052ac0682e6c7bc9c788bb91802f4e85349f9d",
+    "/assets/icon/ic_logout.svg": "400877e9b807ec917680a7c0b48b1dd4aef25ab4",
+    "/assets/icon/ic_notifications.svg": "8037cc8c6681f1e303b88bc8d573e948e4462cb9",
+    "/assets/icon/ic_pdf.svg": "afa41cf865adad1da6c7954a94d960dab48af8cb",
+    "/assets/icon/ic_problem.svg": "9722a9c3413241edc94a1ea690719dc511e56f2c",
+    "/assets/icon/ic_refresh.svg": "a5f72bfa47af5277e59830b253d4af5de30c1f84",
+    "/assets/icon/ic_settings.svg": "9101b62e15e3282e23fd29c24633e9a84b37a898",
+    "/assets/icon/ic_small_fingerprint.png": "3b7aea5d2f35d721a280e02c335578597c2a662b",
+    "/assets/icon/ic_small_fingerprint.svg": "ea7a9dbd04472a6a17d91a34477c114821b53eb2",
+    "/assets/icon/ic_touch_large.png": "1d9dbf242d9a29cde3a20818a010885db65d186d",
+    "/assets/icon/ic_touch_large.svg": "0d498d0298a7f5a1c2144e7ce74a7e2e7b87498d",
+    "/assets/icon/ic_trident.svg": "9da53400001c31cf12a9ebccf6a85b0347c0ee17",
+    "/assets/icon/qr_icon.svg": "9cb30a171afc582f7cb6bdcd2008f2df14d1dec1",
+    "/assets/qr-img.svg": "cec326f35ef44c37e6e0e0092ce550e55cbdd8f1",
+    "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
+    "/e_ukraine_regular.d55f835164fabe75.otf": "f9823e381ae07aeb883a073d7c08d8afb9accb6e",
+    "/index.html": "3f86c38239511d44088031ffc1a438fd12e04a28",
+    "/main.0bc1db85466e22dc.js": "d314bf9816c9704bad51ebb6e5c9495eb5fa86ba",
+    "/polyfills.6bc9ec401e578844.js": "23c4a578df4bd9bfc226acdc600531134ca1aea9",
+    "/runtime.97305e5b369bfd40.js": "80532caa93d5ab7b672aa82405d6da01a3dcc352",
+    "/styles.90b7ba5af304292a.css": "c869395087af6d4d0b3dc22a228b717822c1c600"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
